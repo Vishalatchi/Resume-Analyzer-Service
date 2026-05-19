@@ -1,0 +1,14 @@
+uvicorn
+fastapi[standard]==0.113.0
+pydantic>=2.7.1
+Groq
+python-dotenv
+python-multipart
+pymupdf
+infisicalsdk
+pydantic-settings
+tenacity
+python-jose
+passlib
+httpx
+
