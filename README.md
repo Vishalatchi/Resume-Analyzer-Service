@@ -1,4 +1,5 @@
-This is a Python Service developed to analyze the candidate resume in pdf format.
+This is a Python Service developed to analyze the candidate resume using Groq AI.
+It accepts resume in pdf format.
 It uses FastAPI for service development.
 Groq AI incorporated for resume evaluation.
 Infisical key vault used to store Groq AI API key.
